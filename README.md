@@ -1,1 +1,1 @@
-# Google-Hash-Code
+# Google-Coding-Competitions
